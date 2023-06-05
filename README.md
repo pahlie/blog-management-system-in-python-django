@@ -1,3 +1,3 @@
-# Django - Blog Application | CoreyMS
+# Django - Blog Application 
 
- _Blog application developed using Django by following CoreyMS Tutorials._
+ _Blog application developed using python-Django 
